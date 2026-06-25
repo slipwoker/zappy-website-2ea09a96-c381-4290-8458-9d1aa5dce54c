@@ -80,7 +80,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### שלט בקר 
+https://example.com/product/shlt-bkr-wr5ue4
+- Price: 50.00 ILS (sale, was 79.00 ILS)
+- Availability: In stock
+- Brand: אקסבוקס 
+- Image: https://example.com/assets/image-product-image-1782386009263-bh7e9n.webp
 
 ---
 
