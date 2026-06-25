@@ -2,13 +2,13 @@
 
 A passionate gaming e-commerce store with the motto 'Gaming is Life'. The store sells gaming products online with a delivery option for 40 NIS and free self-pickup at a physical location in Kiryat Ekron, Keren HaYesod 34. The brand has a strong gamer identity and culture at its core.
 
-Source: https://-2ea09a96.zappy5.app
+Source: https://example.com
 
 ---
 
 ## ציוד גיימינג לרכישה אונליין במחירים שוברי שוק — גיימינג זה החיים
 
-URL: https://-2ea09a96.zappy5.app
+URL: https://example.com
 Description: חנות הגיימינג שכל גיימר חייב להכיר! ציוד גיימינג לרכישה אונליין עם מבחר אביזרים מטורף, משלוחים מהירים ואיסוף חינם מקריית עקרון. Gaming is life, והציוד שלך מחכה.
 
 ציוד גיימינג לרכישה אונליין במחירים שוברי שוק — גיימינג זה החיים
@@ -454,7 +454,7 @@ Description: חנות הגיימינג שכל גיימר חייב להכיר! צ
 
 ## משלוח מהיר ואיסוף עצמי מקריית עקרון — גיימינג זה החיים
 
-URL: https://-2ea09a96.zappy5.app/delivery-pickup
+URL: https://example.com/delivery-pickup
 Description: הזמנת ציוד גיימינג? קבל משלוח עד הבית ב-40 ש&quot;ח או איסוף חינם ומהיר מקרית עקרון, רחוב קרן היסוד 34. אנחנו דואגים שהגיימינג יגיע אליך מהר ובטוח.
 
 משלוח מהיר ואיסוף עצמי מקריית עקרון — גיימינג זה החיים
@@ -871,7 +871,7 @@ Description: הזמנת ציוד גיימינג? קבל משלוח עד הבית
 
 ## הסיפור מאחורי התשוקה לגיימינג — גיימינג זה החיים
 
-URL: https://-2ea09a96.zappy5.app/about
+URL: https://example.com/about
 Description: גלו את הנשמה הגיימרית שמאחורי &#39;גיימינג זה החיים&#39;. חנות שנולדה מאהבה אמיתית לעולם הגיימינג, עם תרבות גיימרית בועטת ומחויבות לציוד הכי שווה. בואו להכיר אותנו.
 
 הסיפור מאחורי התשוקה לגיימינג — גיימינג זה החיים
@@ -1221,7 +1221,7 @@ Description: גלו את הנשמה הגיימרית שמאחורי &#39;גיי�
 
 ## כל מה שרצית לשאול על ציוד גיימינג — גיימינג זה החיים
 
-URL: https://-2ea09a96.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לך שאלות על רכישת ציוד גיימינג אונליין? בדף השאלות הנפוצות תמצא תשובות מהירות על משלוחים, איסוף עצמי מקרית עקרון, אחריות ועוד. היכנס וקבל את כל המידע.
 
 כל מה שרצית לשאול על ציוד גיימינג — גיימינג זה החיים
@@ -1584,7 +1584,7 @@ Description: יש לך שאלות על רכישת ציוד גיימינג אונ
 
 ## דברו איתנו, אנחנו גיימרים בנשמה — גיימינג זה החיים
 
-URL: https://-2ea09a96.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה או סתם רוצים לדבר גיימינג? צרו קשר עם הצוות הגיימרי שלנו! אנחנו זמינים לענות על כל שאלה לגבי אביזרי גיימינג, משלוחים או איסוף מקריית עקרון. נשמח לשמוע ממך.
 
 דברו איתנו, אנחנו גיימרים בנשמה — גיימינג זה החיים
@@ -2022,7 +2022,7 @@ Description: צריכים עזרה או סתם רוצים לדבר גיימינ�
 
 ## מוצרים
 
-URL: https://-2ea09a96.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - גיימינג זה החיים
 
 מוצרים - גיימינג זה החיים
@@ -2281,7 +2281,7 @@ Description: המוצרים שלנו - גיימינג זה החיים
 
 ## עגלת קניות
 
-URL: https://-2ea09a96.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - גיימינג זה החיים
@@ -2516,7 +2516,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-2ea09a96.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - גיימינג זה החיים
@@ -2937,7 +2937,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-2ea09a96.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - גיימינג זה החיים
@@ -3179,7 +3179,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-2ea09a96.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - גיימינג זה החיים
@@ -3576,7 +3576,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-2ea09a96.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - גיימינג זה החיים
@@ -3835,7 +3835,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-2ea09a96.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - גיימינג זה החיים
@@ -4123,7 +4123,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-2ea09a96.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - גיימינג זה החיים
 
 פרטי המוצר - גיימינג זה החיים
@@ -4360,7 +4360,7 @@ Description: פרטי המוצר - גיימינג זה החיים
 
 ## מוצרים
 
-URL: https://-2ea09a96.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - גיימינג זה החיים
 
 מוצרים - גיימינג זה החיים
@@ -4621,7 +4621,7 @@ Description: מוצרים - גיימינג זה החיים
 
 ## מדיניות פרטיות
 
-URL: https://-2ea09a96.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4900,7 +4900,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-2ea09a96.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5188,7 +5188,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-2ea09a96.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5495,7 +5495,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-2ea09a96.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: גיימינג זה החיים - תודה שפניתם אלינו
 
 תודה שפניתם אלינו

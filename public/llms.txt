@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-2ea09a96.zappy5.app
+https://example.com
 חנות הגיימינג שכל גיימר חייב להכיר! ציוד גיימינג לרכישה אונליין עם מבחר אביזרים מטורף, משלוחים מהירים ואיסוף חינם מקריית עקרון. Gaming is life, והציוד שלך מחכה.
 
 ### משלוח ואיסוף
-https://-2ea09a96.zappy5.app/delivery-pickup
+https://example.com/delivery-pickup
 הזמנת ציוד גיימינג? קבל משלוח עד הבית ב-40 ש&quot;ח או איסוף חינם ומהיר מקרית עקרון, רחוב קרן היסוד 34. אנחנו דואגים שהגיימינג יגיע אליך מהר ובטוח.
 
 ### אודות
-https://-2ea09a96.zappy5.app/about
+https://example.com/about
 גלו את הנשמה הגיימרית שמאחורי &#39;גיימינג זה החיים&#39;. חנות שנולדה מאהבה אמיתית לעולם הגיימינג, עם תרבות גיימרית בועטת ומחויבות לציוד הכי שווה. בואו להכיר אותנו.
 
 ### שאלות נפוצות
-https://-2ea09a96.zappy5.app/faq
+https://example.com/faq
 יש לך שאלות על רכישת ציוד גיימינג אונליין? בדף השאלות הנפוצות תמצא תשובות מהירות על משלוחים, איסוף עצמי מקרית עקרון, אחריות ועוד. היכנס וקבל את כל המידע.
 
 ### צור קשר
-https://-2ea09a96.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה או סתם רוצים לדבר גיימינג? צרו קשר עם הצוות הגיימרי שלנו! אנחנו זמינים לענות על כל שאלה לגבי אביזרי גיימינג, משלוחים או איסוף מקריית עקרון. נשמח לשמוע ממך.
 
 ### Products
-https://-2ea09a96.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גיימינג זה החיים
 
 ### Cart
-https://-2ea09a96.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-2ea09a96.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-2ea09a96.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-2ea09a96.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-2ea09a96.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-2ea09a96.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גיימינג זה החיים
 
 ### Category
-https://-2ea09a96.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גיימינג זה החיים
 
 ### תודה שפניתם אלינו
-https://-2ea09a96.zappy5.app/thank-you
+https://example.com/thank-you
 גיימינג זה החיים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-2ea09a96.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-2ea09a96.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-2ea09a96.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Gaming E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-2ea09a96.zappy5.app/sitemap.xml
-- Robots: https://-2ea09a96.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-2ea09a96.zappy5.app/llms-full.txt
-- Products (JSON): https://-2ea09a96.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-2ea09a96.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
